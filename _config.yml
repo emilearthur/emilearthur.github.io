@@ -1,15 +1,17 @@
 title: Frederick Emile Bondzie-Arthur # your name (or website title) here
 logo: "/images/pic1.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  2+ years of Business & Systems Analyst and Assistant Project Engineer. Possess Bachelor's Degree in Physics from the University of Cape Coast. 
-  Currently in Fido Solutions Limited serving as a Business & Systems Analyst in Accra, Ghana. 
+  Currently in Fido Solutions Limited serving as a Business & Systems Analyst in Accra, Ghana. Before Fido, I worked as an Assistant Project Manager at the Electricty Company of Ghana.
+  I also work with Omdena in using AI to solve social problems. 
   <br><br>
-  I LOVE working with data and  I am interested in in data science/analytics and in particular the application of machine learning and data mining for big data to solve the real-world problems.
-  PYTHON lover and uses R a bit. 
+  I LOVE working with data and  I am interested in anything DS/ML/DL & RL.
+  Pythonista & uses R a bit. 
   <br><br>
   <a href="https://www.linkedin.com/in/frederickemile/">LinkedIn</a>
+  <a href="https://www.kaggle.com/frederickemile">Kaggle</a>
   <a href="https://1drv.ms/b/s!Am4fZyZpn0N_hX5NVdOAcM9plNa0?e=t5xra8">| CV |</a>
   <a href="mailto:frederickauthur@hotmail.com"> Mail me</a>
+
 
 
 theme: jekyll-theme-minimal
