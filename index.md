@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/emilearthur/emilearthur.github.io/blob/master/sample_page.md">NEXT</a> 
+  <a href="/sample_page.md">NEXT</a> 
 </p>
 
 <!--[NEXT](https://github.com/emilearthur/emilearthur.github.io/blob/master/sample_page.md){align=center} -->
