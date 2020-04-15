@@ -46,5 +46,5 @@
 
 
 
-<div align="center">[NEXT](https://github.com/emilearthur/emilearthur.github.io/blob/master/sample_page.md)</div>
+<center>[NEXT](https://github.com/emilearthur/emilearthur.github.io/blob/master/sample_page.md)</center>
 <!-- Remove above link if you don't want to attibute -->
