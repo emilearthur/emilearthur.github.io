@@ -44,7 +44,9 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/emilearthur/emilearthur.github.io/blob/master/sample_page.md">NEXT</a> 
+</p>
 
-
-<center>[NEXT](https://github.com/emilearthur/emilearthur.github.io/blob/master/sample_page.md)</center>
+<!--[NEXT](https://github.com/emilearthur/emilearthur.github.io/blob/master/sample_page.md){align=center} -->
 <!-- Remove above link if you don't want to attibute -->
