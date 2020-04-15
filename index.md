@@ -44,7 +44,7 @@
 
 ---
 
-<--<p align="center">
+<!--<p align="center">
   <a href="/sample_page.md">NEXT</a> 
 </p> -->
 
