@@ -7,7 +7,7 @@
 [Mortgage Approval Prediction Analysis](https://github.com/emilearthur/Mortagage_Approval_Prediction)
 
 [Adventure Work Prediction Challenge (Regression and Classification)](https://github.com/emilearthur/Adventure_work_prediction_challenge)
-<img src="images/collage1.jpg?raw=true"/>
+<!--- comment <img src="images/collage1.jpg?raw=true"/> -->
 
 ---
 [Veamly Text Analysis](https://github.com/emilearthur/Veamly)
