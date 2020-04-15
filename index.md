@@ -17,7 +17,7 @@
 
 
 ---
-[Adventure Work Prediction Challenge (Regression and Classification)(https://github.com/emilearthur/Adventure_work_prediction_challenge)
+[Adventure Work Prediction Challenge (Regression and Classification](https://github.com/emilearthur/Adventure_work_prediction_challenge)
 <!--- comment <img src="images/collage1.jpg?raw=true"/> -->
 
 ---
