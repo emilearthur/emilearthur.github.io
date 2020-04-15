@@ -40,7 +40,7 @@
 
 ### Posts 
 
-- My Journey Solving Problems: Working with Omdena (https://medium.com/@frederickauthur/my-journey-solving-problems-working-with-omdena-2a9b0704c5f9)
+- [My Journey Solving Problems: Working with Omdena](https://medium.com/@frederickauthur/my-journey-solving-problems-working-with-omdena-2a9b0704c5f9)
 
 ---
 
